@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\ecommerce",
+    "\\src\\app\\ecommerce\\products",
+    "\\src\\app\\modal",
+    "\\src\\app\\profile",
+    "\\src\\app\\service",
+    "\\src\\assets",
+    "\\src\\environments"
+  ],
+  "SelectedNode": "\\package.json",
+  "PreviewInSolutionExplorer": false
+}
